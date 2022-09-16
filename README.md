@@ -11,7 +11,7 @@ The intent is to build
 
 
 The project structure is as such, and will be worked in that order
-- serve - backend app code with apis
-- dt - desktop app code
-- web - web app code
+1. serve - backend app code with apis
+1. dt - desktop app code
+1. web - web app code
 
