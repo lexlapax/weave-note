@@ -1,0 +1,3 @@
+[submodule "serve/vendor/perkeep"]
+	path = serve/vendor/perkeep
+	url = https://github.com/perkeep/perkeep.git
